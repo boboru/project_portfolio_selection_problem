@@ -10,7 +10,7 @@ In the project portfolio selection problem (PPSP), a decision maker must select 
 In the rest of this tutorial, there are model formulation, Python + Gurobi implementation, an example and advanced topics.
 
 ## Model Formulaton
-In the original paper, both equality and inequality cardinality constraint cases are considered, but I will demostrate the equality constraint cases only in this tutorial. You can find inequality constraint cases referred to the paper [[2]](#2).
+In the original paper, both equality and inequality cardinality constraint cases are considered, but I will demonstrate the equality constraint cases only in this tutorial. You can find inequality constraint cases referred to the paper [[2]](#2).
 
 We first introduce some notations.
 
